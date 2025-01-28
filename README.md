@@ -18,3 +18,7 @@ Your job aid should be as concise as possible. Use short words, and short senten
 <h3>Test the Job Aid in the Real-World 📲</h3>
 
 Distribute the job aid to your audience. Encourage the to use it. Ask for feedback and revise the job aid as needed. Review the results: Are there less FAQ’s asked to supervisors or managers? Are task done more accurate? Higher satisfaction rating?
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
